@@ -1,6 +1,6 @@
 # Sóng — Wi-Fi Studio
 
-Kịch bản quay video tiếng Việt: [VIDEO-SCRIPT-VI.md](VIDEO-SCRIPT-VI.md). Mẫu mô tả video có chỗ để dán link GitHub thật: [VIDEO-DESCRIPTION-VI.md](VIDEO-DESCRIPTION-VI.md).
+Kịch bản quay video tiếng Việt: [VIDEO-SCRIPT-VI.md](VIDEO-SCRIPT-VI.md). Mẫu mô tả video đã điền link repo GitHub: [VIDEO-DESCRIPTION-VI.md](VIDEO-DESCRIPTION-VI.md).
 
 Ứng dụng Wi-Fi chạy trên localhost, giao diện tiếng Việt, dữ liệu từ Windows Native Wi-Fi API. Đây là ứng dụng độc lập, **không phải bản sao đầy đủ của NetSpot**.
 
@@ -62,3 +62,4 @@ Không dùng CDN, font từ xa, analytics hay dịch vụ cloud. Wi-Fi API chỉ
 `node tests/frontend.test.cjs`
 
 Kiểm thử tự động bao gồm ánh xạ kênh, bảo mật RSN, beacon bị cắt ngắn, giới hạn API loopback và xác thực POST. Kiểm thử card thật và trình duyệt cần Windows với quyền đọc WLAN.
+
